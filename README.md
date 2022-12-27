@@ -1,2 +1,2 @@
 # FaultSimulator
-DRAM Fault Simulator
+DRAM Fault Simulator test
