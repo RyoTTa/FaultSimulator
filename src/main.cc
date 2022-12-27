@@ -63,7 +63,6 @@ int main(int argc, const char **argv) {
             parser, "config", "The config file name (mandatory)",
             {'c', "config"});
 
-
     try {
         parser.ParseCLI(argc, argv);
     } catch (args::Help) {
