@@ -1,0 +1,7 @@
+# comment
+
+#ignore all files in the build/ directory
+build/
+
+#ignore library (*.so)
+*.so
